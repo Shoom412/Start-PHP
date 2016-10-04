@@ -1,1 +1,3 @@
-# Start-PHP www
+<&php
+	echo "Hello World!!!";
+&>
